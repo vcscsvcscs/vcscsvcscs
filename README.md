@@ -64,7 +64,6 @@ Worked on Metron the KPI Framework, a data aggregation system (like DevLake) for
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vcscsvcscs&show_icons=true&theme=radical" alt="Csongor's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vcscsvcscs&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcscsvcscs&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
