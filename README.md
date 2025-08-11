@@ -48,7 +48,7 @@ Worked on Metron the KPI Framework, a data aggregation system (like DevLake) for
 
 ### 🧑‍💻 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,terraform,kubernetes,azure,github,git,html,css,js,nodejs,svelte,mongodb,redis,jenkins,prometheus,cloudflare" />
+  <img src="https://skillicons.dev/icons?i=go,python,terraform,kubernetes,azure,html,css,js,svelte,mongodb,redis,jenkins,prometheus,cloudflare,docker" />
 </p>
 
 ---
